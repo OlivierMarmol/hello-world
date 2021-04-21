@@ -1,4 +1,4 @@
 # hello-world
-Description: Hope it will helps to progress
+Description: Hope it will helps me to progress
 
-Leaning about Main and Branchs
+1) Leaning about Main and Branchs
